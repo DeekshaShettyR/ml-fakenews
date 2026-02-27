@@ -3,7 +3,7 @@
 1. Project Overview
 
 * Objective: Detect if news is Real or Fake using ML.
-* Tech Stack: Python, Flask, HTML/CSS, NLTK, scikit-learn.
+* Tech Stack: Python, Flask, HTML/CSS, NLTK, scikit-learn.   
 * Features: Two titles input, color-coded Real/Fake prediction.
 
 2. Dataset Preparation
