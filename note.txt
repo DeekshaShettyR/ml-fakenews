@@ -1,4 +1,4 @@
-Fake News Detection Project - Step by Step Explanation
+   Fake News Detection Project - Step by Step Explanation
 
 1. Project Overview
 
